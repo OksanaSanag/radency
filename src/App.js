@@ -1,11 +1,16 @@
-import React from 'react';
-import FileInput from './component/FileInput';
+import React, {useState} from 'react';
+import FileParser from './component/FileParser';
+import Table from './component/Table';
 import './App.css';
 
 function App(props) {
+  const [arrData, setArrData]= useState([]);
+  const _setArrData = (arrData) => setArrData(arrData); 
+  console.log(arrData);
   return (
     <div>
-      <FileInput />
+      <FileParser setArr = { _setArrData } />
+      <Table dataForTable = { arrData } />
     </div>
   );
 }
