@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/radency/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/radency/static/js/main.21f4d917.chunk.js",
+    "main.js.map": "/radency/static/js/main.21f4d917.chunk.js.map",
+    "runtime-main.js": "/radency/static/js/runtime-main.45b6765d.js",
+    "runtime-main.js.map": "/radency/static/js/runtime-main.45b6765d.js.map",
+    "static/css/2.e1a41564.chunk.css": "/radency/static/css/2.e1a41564.chunk.css",
+    "static/js/2.f84f4207.chunk.js": "/radency/static/js/2.f84f4207.chunk.js",
+    "static/js/2.f84f4207.chunk.js.map": "/radency/static/js/2.f84f4207.chunk.js.map",
+    "static/js/3.ac41b600.chunk.js": "/radency/static/js/3.ac41b600.chunk.js",
+    "static/js/3.ac41b600.chunk.js.map": "/radency/static/js/3.ac41b600.chunk.js.map",
+    "index.html": "/radency/index.html",
+    "static/css/2.e1a41564.chunk.css.map": "/radency/static/css/2.e1a41564.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/radency/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f84f4207.chunk.js.LICENSE.txt": "/radency/static/js/2.f84f4207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45b6765d.js",
+    "static/css/2.e1a41564.chunk.css",
+    "static/js/2.f84f4207.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.21f4d917.chunk.js"
+  ]
+}
